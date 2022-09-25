@@ -33,8 +33,7 @@ I'm a transfer student, and this is my fourth and last quarter at UCSD. In my fr
 
 ##### Keyboard
 I run the Melody96. 
-Here is a picture of my board:
-(Melody96)[./melody96.jpg]
+Here is a picture of my board: [Melody96](/melody96.jpg)
 This is my layer map a JSON file for QMK:
 ```
 {
