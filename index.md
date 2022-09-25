@@ -3,7 +3,7 @@
 ## Table of contents
 - [Programming](https://github.com/owadg/cse110lab0/blob/main/index.md#programming)
 - [Personal life](https://github.com/owadg/cse110lab0/blob/main/index.md#personal-life)
-   - [Quick Facts] (https://github.com/owadg/cse110lab0/blob/main/index.md#quick-facts)
+   - [Quick Facts](https://github.com/owadg/cse110lab0/blob/main/index.md#quick-facts)
    - [Favorite Quote](https://github.com/owadg/cse110lab0/blob/main/index.md#favorite-quote)
    - [Keyboard](https://github.com/owadg/cse110lab0/blob/main/index.md#keyboard)
 
