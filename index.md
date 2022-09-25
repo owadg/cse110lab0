@@ -1,5 +1,12 @@
 # A bit about me
 
+## Table of contents
+- [Programming](https://github.com/owadg/cse110lab0/blob/main/index.md#programming)
+- [Personal life](https://github.com/owadg/cse110lab0/blob/main/index.md#personal-life)
+   - [Quick Facts] (https://github.com/owadg/cse110lab0/blob/main/index.md#quick-facts)
+   - [Favorite Quote](https://github.com/owadg/cse110lab0/blob/main/index.md#favorite-quote)
+   - [Keyboard](https://github.com/owadg/cse110lab0/blob/main/index.md#keyboard)
+
 ## Programming
 I'm a fourth year Mathematics and Computer Science major at UCSD. I don't have any dedicated interests within programming ***yet***. I am still broadening my horizons to see what flavor of programming I prefer. This quarter, I will be learning web development skills as well as being introduced both mathematically and through application to supervised learning. I am also foraying into computer graphics. As of currently, my methodology with my education has been to go as wide as possible and expose myself to many subjects, both within computer science and mathematics. A project I am working on right now is creating a monitor configurator for Windows and Wayland desktop managers in Golang using the Fyne library for a GUI.
 
